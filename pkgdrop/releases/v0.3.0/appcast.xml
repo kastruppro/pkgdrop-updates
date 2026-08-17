@@ -5,15 +5,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>PkgDrop</title>
         <item>
             <title>0.3.0</title>
-            <pubDate>Mon, 17 Aug 2026 11:12:11 +0200</pubDate>
+            <pubDate>Mon, 17 Aug 2026 13:41:40 +0200</pubDate>
             <sparkle:version>9</sparkle:version>
             <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://updates.kastrup.pro/releases/v0.3.0/PkgDrop-0.3.0.zip" length="4599527" type="application/octet-stream" sparkle:edSignature="VOhBXoHAZ+5YuKgQOccsrgZRoBGPskRxkfQqynWSZChkk9vqU8QPurvGGTWY16bg5cfDguW+eJBYGqvwF1zzAw=="></enclosure>
+            <enclosure url="https://updates.kastrup.pro/pkgdrop/releases/v0.3.0/PkgDrop-0.3.0.zip" length="4599499" type="application/octet-stream" sparkle:edSignature="lp00cuMdUmThqzB0JmIUbD+glLbxdnVcLfCXFcjuKDEKqCgRE2EoSetety1FHvQ02WybVvUqT2cTUCZ7nsNnAA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: cDpCz1QkXrdAw7qHKYUs6f2GOp1TZMaoETj6k12sYpn9HkxT4/z+ZUwM7+c1wtDfNlz1JKUgXsw3+N/Xq1+nBA==
-length: 1100
+edSignature: eZdiZ+QTgq1XcCddnjMLnqU68vQhvfzAlCMYr4MFrSOnzO1YvcQLJtj9g2qysuHXZQoVjG2/jTfoPDhylK0WDQ==
+length: 1108
 -->
