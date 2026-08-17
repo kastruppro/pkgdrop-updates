@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>PkgDrop</title>
+        <item>
+            <title>0.3.0</title>
+            <pubDate>Mon, 17 Aug 2026 11:12:11 +0200</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://updates.kastrup.pro/releases/v0.3.0/PkgDrop-0.3.0.zip" length="4599527" type="application/octet-stream" sparkle:edSignature="VOhBXoHAZ+5YuKgQOccsrgZRoBGPskRxkfQqynWSZChkk9vqU8QPurvGGTWY16bg5cfDguW+eJBYGqvwF1zzAw=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: cDpCz1QkXrdAw7qHKYUs6f2GOp1TZMaoETj6k12sYpn9HkxT4/z+ZUwM7+c1wtDfNlz1JKUgXsw3+N/Xq1+nBA==
+length: 1100
+-->
